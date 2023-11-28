@@ -1,0 +1,8 @@
+# Site settings
+title: myhouse
+description: 欢迎来到我的庄园
+keywords: Modern, Blogging, Fun
+author: Wferr
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+qq: 2389596337798

@@ -5,4 +5,8 @@ keywords: Modern, Blogging, Fun
 author: Wferr
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-qq: 2389596337798
+qq: 2389596337
+img :
+  width: 1920px;
+  height: 1200px;
+     

@@ -8,4 +8,4 @@ date:   2023-12-02 12：32
 ---
 
 家乡的风景，还是挺不错的
-![Alt text](img/1.jpg)!
+![Alt text](img/2.jpg)

@@ -6,7 +6,4 @@ author: Wferr
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 qq: 2389596337
-img :
-  width: 190px;
-  height: 120px;
      

@@ -320,3 +320,7 @@ var demo = (function (window) {
 
 // Kickstart Demo.
 window.onload = demo.init;
+
+function message(name,age) {
+    alert('你好：'+name+',年龄：'+age);
+}

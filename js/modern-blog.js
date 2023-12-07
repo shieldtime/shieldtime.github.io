@@ -322,5 +322,9 @@ var demo = (function (window) {
 window.onload = demo.init;
 
 function message(name,age) {
-    alert('你好：'+name+',年龄：'+age);
+    alert(+name+age);
+    }
+function message(q1,q2) {
+    alert('qq: '+q1+',微信：'+q2);
 }
+ 

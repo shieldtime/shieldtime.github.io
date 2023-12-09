@@ -49,7 +49,7 @@
 .card__content {
 	position: relative;
 	width: 100%;
-	max-width: 1200px;
+	max-width: 1350px;
 	height: auto;
 	margin: 400px auto 60px;
 	padding: 30px 40px 22px;
@@ -373,3 +373,36 @@ a:focus {
 	border-radius: 15px;
 	background: linear-gradient(rgb(138, 227, 55), rgb(216, 153, 164));
 }
+
+/* 瀑布流容器样式 */
+.waterfall {
+	width: 100%;
+	margin: 0 auto;
+	/* 设置列宽和列数 */
+	column-count: 4;
+	column-width: 220px;
+	/* 设置列间距 */
+	column-gap: 200px;
+	/* 设置元素不被分割 */
+	break-inside: avoid;
+  }
+  
+  /* 瀑布流中的图片样式 */
+  .waterfall img {
+	width: 550px;
+	/* 设置图片自适应高度 */
+	height: 450px;
+	/* 设置边框和阴影 */
+	border: 3.5px solid #151414;
+	box-shadow: 0 0 5px #181818;
+	/* 设置图片居中对齐 */
+	display: block;
+	margin: 1px 1px;
+  }
+  
+  /* 清除浮动 */
+  .waterfall::after {
+	content: "";
+	display: block;
+	clear: both;
+  }

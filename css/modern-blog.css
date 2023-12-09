@@ -377,12 +377,12 @@ a:focus {
 /* 瀑布流容器样式 */
 .waterfall {
 	width: 100%;
-	margin: 0 auto;
+	margin: 5px 5px;
 	/* 设置列宽和列数 */
 	column-count: 4;
-	column-width: 220px;
+	column-width: 300px;
 	/* 设置列间距 */
-	column-gap: 200px;
+	column-gap: 105px;
 	/* 设置元素不被分割 */
 	break-inside: avoid;
   }
@@ -398,6 +398,7 @@ a:focus {
 	/* 设置图片居中对齐 */
 	display: block;
 	margin: 1px 1px;
+	margin-bottom: 13px;
   }
   
   /* 清除浮动 */

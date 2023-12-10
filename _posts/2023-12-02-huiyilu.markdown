@@ -1,9 +1,9 @@
 ---
-title:  "照片."
-subtitle: "过去的时光！"
+title:  "家乡的风景."
+subtitle: "山林湖泊！"
 author: "shieldtime"
 avatar: "img/authors/shieldtime.png"
-image: "img/7.jpg"
+image: "img/home/1.jpg"
 date:   2023-12-02 12：32
 ---
 
@@ -13,10 +13,10 @@ date:   2023-12-02 12：32
     <div class="waterfall">
       <!-- 瀑布流的图片项 -->
       这里是向阳山水库
-        <img src="img/4.jpg" class="img" alt="Image 1">
-        <img src="img/1.jpg" class="img" alt="Image 2">
+        <img src="img/home/4.jpg" class="img" alt="Image 1">
+        <img src="img/home/1.jpg" class="img" alt="Image 2">
       要准备建高铁了，填了土，有幸坐过这趟路过家门口的高铁
-        <img src="img/11.jpg" class="img" alt="Image 2">
-        <img src="img/6.jpg" class="img" alt="Image 2">
+        <img src="img/home/11.jpg" class="img" alt="Image 2">
+        <img src="img/home/6.jpg" class="img" alt="Image 2">
       </div>
       <!-- 更多图片项 -->

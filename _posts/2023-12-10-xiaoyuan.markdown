@@ -1,0 +1,25 @@
+---
+title:  "我的大学生活."
+subtitle: "有趣"
+author: "shieldtime"
+avatar: "img/authors/shieldtime.png"
+image: "img/school life/7.jpg"
+date:   2023-12-10 09：32
+---
+
+我的大学
+
+<body>
+    <div class="waterfall">
+      <!-- 瀑布流的图片项 -->
+      说起大学中最难忘，最有意义的经历，我觉得一定是在社团中的那段时光了，从一开始的八九个人的小组织，到后来真正建立起一个
+      一两百人的社团还建立了社团的公众号。在社团发展壮大的过程中遇到了许多困难，来自学校，学生，看门大爷还有社团自身等等各
+      个方面。不过，这些问题最终并没有拦住那时的我们，说起来，我也算是开国元勋了哈哈哈哈。回想起来我大学的朋友几乎都是在这
+      里认识的。
+        <img src="img/school life/s8.jpg" class="img" alt="Image 1">
+        <img src="img/school life/s7.jpg" class="img" alt="Image 2">
+      这时的我们蒸蒸日上，换上社服，一起出席活动，我们是一个team,Y.E.C.
+        <img src="img/school life/s12.jpg" class="img" alt="Image 2">
+        <img src="img/school life/s14.jpg" class="img" alt="Image 2">
+      </div>
+      <!-- 更多图片项 -->

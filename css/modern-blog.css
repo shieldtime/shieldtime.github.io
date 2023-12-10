@@ -382,18 +382,18 @@ a:focus {
 	column-count: 4;
 	column-width: 300px;
 	/* 设置列间距 */
-	column-gap: 105px;
+	column-gap: 145px;
 	/* 设置元素不被分割 */
 	break-inside: avoid;
   }
   
   /* 瀑布流中的图片样式 */
   .waterfall img {
-	width: 550px;
+	width: 580px;
 	/* 设置图片自适应高度 */
 	height: 450px;
 	/* 设置边框和阴影 */
-	border: 3.5px solid #151414;
+	border: 4.5px solid #151414;
 	box-shadow: 0 0 5px #181818;
 	/* 设置图片居中对齐 */
 	display: block;

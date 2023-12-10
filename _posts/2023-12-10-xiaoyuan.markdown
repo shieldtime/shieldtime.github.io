@@ -6,9 +6,7 @@ avatar: "img/authors/shieldtime.png"
 image: "img/school life/7.jpg"
 date:   2023-12-10 09：32
 ---
-
 我的大学
-
 <body>
     <div class="waterfall">
       <!-- 瀑布流的图片项 -->

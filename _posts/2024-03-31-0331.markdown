@@ -1,0 +1,26 @@
+---
+title:  "省博物馆之行."
+subtitle: "值得去看一看"
+author: "shieldtime"
+avatar: "img/authors/shieldtime.png"
+image: "img/live/0334.jpg"
+date:   2024-03-31 20：00
+---
+
+<body>
+    <div class="waterfall">
+      <!-- 瀑布流的图片项 -->
+      逛了将近两个小时，馆藏还是很多的，有很多老物件，古董。令我印象很深的就是那几个栩栩如生的雕像。
+      还有高度还原了早些年的百姓生活场景。还有很多很多，画作，鱼类的化石，很多都是在一些乡村发现的。
+      不过我那些东西我就欣赏不来了，哈哈哈。
+        <img src="img/live/0329.jpg" class="img" alt="Image 1" style="width: 550px; height: 480px;">
+        <img src="img/live/0337.jpg" class="img" alt="Image 1" style="width: 560px; height: 500px;">
+        <img src="img/live/0340.jpg" class="img" alt="Image 1" style="width: 560px; height: 450px;">
+        <img src="img/live/0331.jpg" class="img" alt="Image 1" style="width: 550px; height: 450px;">
+        <img src="img/live/0330.jpg" class="img" alt="Image 1" style="width: 550px; height: 600px;">
+        <img src="img/live/0722.jpg" class="img" alt="Image 2" style="width: 560px; height: 480px;">
+        <img src="img/live/0733.jpg" class="img" alt="Image 1" style="width: 560px; height: 650px;">
+        <img src="img/live/0744.jpg" class="img" alt="Image 1" style="width: 550px; height: 600px;">
+        <img src="img/live/0755.jpg" class="img" alt="Image 1" style="width: 560px; height: 500px;">
+      </div>
+      <!-- 更多图片项 -->

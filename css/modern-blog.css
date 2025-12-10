@@ -266,18 +266,23 @@ a:focus {
 }
 
 .header h1 {
-	font-size: 5em;
+	font-size: 4.25em;
 	font-weight: 800;
 	line-height: 1.2;
 	margin: .5em 0 0;
+	 background: linear-gradient(90deg, #ff577f, #00f2fe);
+  -webkit-background-clip: text; /* 把背景裁剪成文字形状 */
+  color: transparent; /* 文字本身变透明，显示背景渐变 */
 }
 
 .header h1 span {
-	font-size: .45em;
+	font-size: .55em;
 	display: block;
 	padding: .5em 0 1em;
-	color: #999;
-}
+	background: linear-gradient(90deg, #ff577f, #00f2fe);
+	-webkit-background-clip: text; /* 把背景裁剪成文字形状 */
+	color: transparent; /* 文字本身变透明，显示背景渐变 */
+  }
 /* Top Navigation Style */
 
 .links {
@@ -362,16 +367,16 @@ a:focus {
 	width:60%;
 	height:680px;
 	border:solid 5px rgb(26, 24, 24);
-	border-radius: 15px;
+	border-radius: 50px;
 	box-shadow: 5px 5px 3px rgb(65, 63, 63);
 }
 
 .button {
-	width:150px;
+	width:100px;
 	height:50px;
 	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 	border-radius: 15px;
-	background: linear-gradient(rgb(138, 227, 55), rgb(216, 153, 164));
+	background: linear-gradient(rgb(206, 243, 151), rgb(216, 53, 164));
 }
 
 /* 瀑布流容器样式 */
@@ -389,7 +394,7 @@ a:focus {
   
   /* 瀑布流中的图片样式 */
   .waterfall img {
-	width: 580px;
+	width: 500px;
 	/* 设置图片自适应高度 */
 	height: 450px;
 	/* 设置边框和阴影 */
